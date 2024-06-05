@@ -33,6 +33,10 @@ Once you have the tutorial files on your machine, navigate to the tutorial direc
 ## Contributing
 I welcome contributions to enhance the tutorial and make it even more valuable for learners. If you have suggestions, improvements, or additional examples to include, please fork the repository, make your changes, and submit a pull request. In addition to this, feel free to contact me via my github if you have any further queries.
 
+## Links
+
+[Link](https://gist.github.com/JamieThompson101/d33e617548e4f88c58ef58d47c358d58)
+
 ## License
 This tutorial is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
