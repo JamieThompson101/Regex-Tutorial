@@ -44,7 +44,7 @@ I welcome contributions to enhance the tutorial and make it even more valuable f
 
 [Regex tutorial document](https://coding-boot-camp.github.io/full-stack/computer-science/regex-tutorial)
 
-[Link](https://gist.github.com/JamieThompson101/d33e617548e4f88c58ef58d47c358d58)
+[My gist](https://gist.github.com/JamieThompson101/d33e617548e4f88c58ef58d47c358d58)
 
 ## License
 This tutorial is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
