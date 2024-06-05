@@ -12,7 +12,8 @@ The motivation behind this project was to hone my knowledge of github gists and 
 3. [Getting Started](#getting-started)
 4. [Usage](#usage)
 5. [Contributing](#contributing)
-6. [License](#license)
+6. [Links](#links)
+7. [License](#license)
 
 ## Overview
 Regular expressions are powerful tools for matching, searching, and manipulating text based on patterns. This tutorial aims to demystify regex and equip you with the knowledge and skills to leverage this versatile tool in your projects.
@@ -38,6 +39,10 @@ Once you have the tutorial files on your machine, navigate to the tutorial direc
 I welcome contributions to enhance the tutorial and make it even more valuable for learners. If you have suggestions, improvements, or additional examples to include, please fork the repository, make your changes, and submit a pull request. In addition to this, feel free to contact me via my github if you have any further queries.
 
 ## Links
+
+[Regex tutorial video](https://www.youtube.com/watch?v=7DG3kCDx53c)
+
+[Regex tutorial document](https://coding-boot-camp.github.io/full-stack/computer-science/regex-tutorial)
 
 [Link](https://gist.github.com/JamieThompson101/d33e617548e4f88c58ef58d47c358d58)
 
