@@ -2,6 +2,10 @@
 
 Welcome to the Regex Tutorial! This tutorial is designed to provide you with a comprehensive understanding of regular expressions (regex) and how to effectively use them in your programming and data processing tasks.
 
+## Motivation
+
+The motivation behind this project was to hone my knowledge of github gists and regex as a whole.
+
 ## Table of Contents
 1. [Overview](#overview)
 2. [Features](#features)
